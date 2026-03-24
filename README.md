@@ -9,13 +9,13 @@ The analysis follows **two complementary segmentation approaches**, providing bo
 
 ## 📂 Project Structure
 
-- **Abstract**  
+- **SegmentingClientsPoliMI_ExtendedAbstract_group6.pdf : Abstract** :  
   Short scientific report describing the problem, methodology and main results of the segmentation analysis.
 
 - **Presentation (PPT)**  
   Slide deck summarizing the project motivation, data preparation, clustering methods, validation results and identified customer personas.
 
-- **Notebook 1 (NB1)**  
+- **SegmentingClientsPoliMI_1_group6.ipynb : Notebook 1 (NB1)**  
   Main segmentation pipeline based on **mixed-type data clustering**.  
   Includes:
   - weighted Gower distance  
@@ -25,7 +25,7 @@ The analysis follows **two complementary segmentation approaches**, providing bo
   - bootstrap stability analysis  
   - financial persona profiling  
 
-- **Notebook 2 (NB2)**  
+- **SegmentingClientsPoliMI_2_group6.ipynb : Notebook 2 (NB2)**  
   Alternative segmentation based on **K-Means clustering** applied to numerical features.  
   Focuses on:
   - model selection via validation metrics and elbow analysis  
