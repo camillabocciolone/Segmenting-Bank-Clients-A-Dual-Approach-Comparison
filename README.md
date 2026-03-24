@@ -9,7 +9,7 @@ The analysis follows **two complementary segmentation approaches**, providing bo
 
 ## 📂 Project Structure
 
-- **SegmentingClientsPoliMI_ExtendedAbstract_group6.pdf : Abstract** :  
+- **SegmentingClientsPoliMI_ExtendedAbstract_group6.pdf : Abstract**  
   Short scientific report describing the problem, methodology and main results of the segmentation analysis.
 
 - **Presentation (PPT)**  
