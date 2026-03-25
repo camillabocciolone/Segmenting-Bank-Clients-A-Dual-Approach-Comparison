@@ -12,7 +12,7 @@ The analysis follows **two complementary segmentation approaches**, providing bo
 - **SegmentingClientsPoliMI_ExtendedAbstract_group6.pdf : Abstract**  
   Short scientific report describing the problem, methodology and main results of the segmentation analysis.
 
-- **Presentation (PPT)**  
+- **SegmentationClientsPoliMI_presentation_group6.pdf: Presentation (PPT)**  
   Slide deck summarizing the project motivation, data preparation, clustering methods, validation results and identified customer personas.
 
 - **SegmentingClientsPoliMI_1_group6.ipynb : Notebook 1 (NB1)**  
